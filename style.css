@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right bottom, red, white, blue);
+}
+h1{border: 5px double yellow;
+border-radius: 10px;
+width: 200px;
+color: aquamarine;
+text-align: center;
+}
+.link-nav1{color: aquamarine;
+border: 2px solid yellow;
+border-radius: 5px;
+text-decoration: none;
+margin-left: 100px;
+margin-right: 50px;
+}
+.link-nav2{color: aquamarine;
+border: 2px solid yellow;
+border-radius: 5px;
+text-decoration: none;
+margin-right: 100px;
+}
+header{border: 5px solid yellow;
+border-radius: 5px;
+height: 30px;
+padding-top: 15px;
+padding-left: 10px;
+margin-bottom: 25px;}
+header a{text-decoration: none;
+color: aquamarine;
+}
+p{color: blueviolet;}
